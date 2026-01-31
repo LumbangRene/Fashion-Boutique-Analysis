@@ -51,11 +51,9 @@ I created this project to combine my growing Excel skills with my strong interes
 
 1. Open the `Fashion_Boutique_Analysis.xlsx` file in Excel.
 2. Explore the table with structured references.
-3. Review the `return_status_check`, `amount_disscounted`, and `price_check` columns for data validation.
+3. Review the `return_status_check`, `amount_discounted`, and `price_check` columns for data validation.
 4. Interact with the PivotTables to explore trends in returns, ratings, discounts, and revenue.
 5. Optionally, modify filters, grouping, and charts to gain additional insights.
 
 ---
 
-*Created by [Your Name]*  
-Passionate about fashion and data analytics.
